@@ -44,8 +44,10 @@ For any questions, issues, or feedback, please feel free to open an issue in the
 
 ## Contributors
 
-- John Doe (@johndoe)
-- Jane Smith (@janesmith)
+- Pavel Kuznetsov (@janesmith)
+- Obdulla Aliyev (@janesmith)
+- Rahman Taghizade (@johndoe)
+- Nail Shamsudinoff (@janesmith)
 
 ## License
 
