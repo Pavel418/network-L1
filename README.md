@@ -44,10 +44,10 @@ For any questions, issues, or feedback, please feel free to open an issue in the
 
 ## Contributors
 
-- Pavel Kuznetsov (@janesmith)
-- Obdulla Aliyev (@janesmith)
-- Rahman Taghizade (@johndoe)
-- Nail Shamsudinoff (@janesmith)
+- Pavel Kuznetsov (@Pavel418)
+- Abdulla Aliyev (@Selezen8172)
+- Rahman Taghizade (@RahmanTaghizade)
+- Nail Shamsudinov (@pinomo1)
 
 ## License
 
