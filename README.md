@@ -22,15 +22,20 @@ To get started with the project, follow these steps:
    git clone https://github.com/ufaz-network-algorithms/project.git
    ```
 
-2. **Explore the Contents:** Once cloned, explore the contents of the repository. You'll find folders for implementation exercises, documentation, sample data, and resources.
+2. **Install required packages:** Install the required packages by running the following command:
+   ```
+   pip install -r ./project/requirements.txt
+   ```
 
-3. **Choose an Algorithm:** Choose an algorithm you want to learn or implement. Each algorithm is contained within its own folder along with documentation and sample data.
+3. **Explore the Contents:** Once cloned, explore the contents of the repository. You'll find folders for implementation exercises, documentation, sample data, and resources.
 
-4. **Start Implementing:** Follow the instructions provided in the documentation to implement the algorithm of your choice. You can use the provided sample data for testing and validation.
+4. **Choose an Algorithm:** Choose an algorithm you want to learn or implement. Each algorithm is contained within its own folder along with documentation and sample data.
 
-5. **Collaborate:** Feel free to collaborate with your peers. You can work together on implementing algorithms, discussing concepts, and sharing insights.
+5. **Start Implementing:** Follow the instructions provided in the documentation to implement the algorithm of your choice. You can use the provided sample data for testing and validation.
 
-6. **Contribute:** If you have any improvements, suggestions, or new algorithms to add, feel free to contribute to the project by opening a pull request. Contributions from students are highly encouraged!
+6. **Collaborate:** Feel free to collaborate with your peers. You can work together on implementing algorithms, discussing concepts, and sharing insights.
+
+7. **Contribute:** If you have any improvements, suggestions, or new algorithms to add, feel free to contribute to the project by opening a pull request. Contributions from students are highly encouraged!
 
 ## Resources
 
@@ -44,10 +49,10 @@ For any questions, issues, or feedback, please feel free to open an issue in the
 
 ## Contributors
 
-- Pavel Kuznetsov (@janesmith)
-- Obdulla Aliyev (@janesmith)
-- Rahman Taghizade (@johndoe)
-- Nail Shamsudinoff (@janesmith)
+- Pavel Kuznetsov (@Pavel418)
+- Abdulla Aliyev (@Selezen8172)
+- Rahman Taghizade (@RahmanTaghizade)
+- Nail Shamsudinov (@pinomo1)
 
 ## License
 
