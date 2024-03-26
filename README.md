@@ -19,7 +19,7 @@ To get started with the project, follow these steps:
 
 1. **Clone the Repository:** Clone this repository to your local machine using the following command:
    ```
-   git clone https://github.com/ufaz-network-algorithms/project.git
+   git clone https://github.com/Pavel418/network-L1.git
    ```
 
 2. **Install required packages:** Install the required packages by running the following command:
